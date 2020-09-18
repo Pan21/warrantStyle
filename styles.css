@@ -5,9 +5,6 @@
     border-radius: 15px;
     min-height: 200px;
     height: 100%;
-    display: inline-block;
-    position: absolute;
-    max-width: 600px;
 }
 .size{
     width: 400px;
