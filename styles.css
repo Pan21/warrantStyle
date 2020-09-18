@@ -77,8 +77,12 @@ display: block;
 background-color: #485bff;
 }
 
-.fRight{
+.fRight {
+float: right;
+}
+
+.fRight_txt{
 display: table;
 padding-top: 5px;
-float: right;}
+}
 
