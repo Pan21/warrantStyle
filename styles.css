@@ -14,7 +14,7 @@
 .fLeft{
     padding-right: 20px;
     float: left;
-    display: table;
+    display: block;
 }
 
 
@@ -79,7 +79,7 @@ background-color: #485bff;
 
 .fRight {
 height: 100%;
-display: table;
+display: block;
 }
 
 .fRight_txt{
