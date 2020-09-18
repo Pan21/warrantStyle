@@ -7,6 +7,7 @@
     min-height: 200px;
     height: 100%;
     display: table;
+    position: absolute;
 }
 .size{
     width: 400px;
