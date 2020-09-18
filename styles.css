@@ -79,10 +79,10 @@ background-color: #485bff;
 
 .fRight {
 height: 100%;
+display: table;
 }
 
 .fRight_txt{
-display: table;
 padding-top: 5px;
 }
 
