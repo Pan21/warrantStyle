@@ -15,7 +15,7 @@
     padding-right: 20px;
     float: left;
     display: block;
-    min-height: 200px;
+    min-height: 400px;
     height: 90%;
 }
 
@@ -80,7 +80,7 @@ background-color: #485bff;
 }
 
 .fRight {
-min-height: 200px;
+min-height: 400px;
 height: 90%;
 }
 
