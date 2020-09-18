@@ -81,7 +81,7 @@ background-color: #485bff;
 
 .fRight {
 min-height: 400px;
-height: 90%;
+display: block;
 }
 
 .fRight_txt{
