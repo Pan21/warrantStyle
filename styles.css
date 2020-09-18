@@ -23,9 +23,8 @@
 
 div.scrollgal {
 background-color: #333;
-overflow: auto
+overflow: auto;
 white-space: nowrap;
-width: 400px;
 
 }
 
