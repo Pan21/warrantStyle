@@ -15,7 +15,6 @@
     padding-right: 20px;
     float: left;
     display: block;
-    height: 100%;
 }
 
 
@@ -80,7 +79,6 @@ background-color: #485bff;
 
 .fRight {
 height: 100%;
-display: block;
 }
 
 .fRight_txt{
