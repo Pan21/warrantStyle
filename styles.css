@@ -8,6 +8,7 @@
     height: 100%;
     display: inline-block;
     position: absolute;
+    width: 800px;
 }
 .size{
     width: 400px;
