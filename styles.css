@@ -1,5 +1,4 @@
 .Container{
-    width: 1200px;
     padding: 10px;
     background-color: #CFCFCF;
     border: 2px solid blue;
@@ -8,7 +7,7 @@
     height: 100%;
     display: inline-block;
     position: absolute;
-    max-width: 400px;
+    max-width: 600px;
 }
 .size{
     width: 400px;
