@@ -7,6 +7,7 @@
     min-height: 200px;
     height: 100%;
     display: inline-block;
+    margin: 0 auto;
 }
 .size{
     width: 400px;
