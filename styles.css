@@ -1,24 +1,24 @@
 .Container{
-    padding: 10px;
-    background-color: #CFCFCF;
-    border: 2px solid blue;
-    border-radius: 15px;
-    min-height: 200px;
-    height: 100%;
-    overflow-wrap: break-word;
-}
-.size{
-    width: 800px;
+      width: 1200px;
+      padding: 10px;
+      background-color: #CFCFCF;
+      border: 2px solid blue;
+      border-radius: 15px;
+      min-height: 600px;
+      max-height: 1000px;
+  }
+  .size{
+      width: 400px;
+  
+  }
+  .fLeft{
+      padding-right: 20px;
+      float: left;
+  }
 
-}
-.fLeft{
-    padding-right: 20px;
-    float: left;
-}
 
 
-
-div.scrollgal {
+  div.scrollgal {
 background-color: #333;
 overflow: auto;
 white-space: nowrap;
@@ -76,12 +76,13 @@ display: block;
 background-color: #485bff;
 }
 
-.fRight {
-float: right;
+.fRight{
 
 }
 
-.fRight_txt{
-padding-top: 5px;
+.fRightTxt{
+  overflow-wrap: break-word;
+  display: block;
+  padding-top: 5px;
+  display: inline;
 }
-
