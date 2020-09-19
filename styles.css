@@ -7,7 +7,6 @@
     min-height: 200px;
     height: 100%;
     display: inline-block;
-    margin: 0 auto;
 }
 .size{
     width: 400px;
@@ -17,6 +16,7 @@
     padding-right: 20px;
     float: left;
     display: block;
+    margin: auto;
 }
 
 
