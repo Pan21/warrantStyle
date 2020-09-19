@@ -79,6 +79,7 @@ background-color: #485bff;
 
 .fRight {
 float: right;
+display: inline-block;
 
 }
 
